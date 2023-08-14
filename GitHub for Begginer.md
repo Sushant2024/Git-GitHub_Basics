@@ -1,4 +1,4 @@
-- ## Basic Tutorial for GitHub Basics
+- ## Tutorial on Basics of GitHub
 - ## How to use Github?
   - **_REPOSITORIES_**
     - What are these?
