@@ -35,7 +35,7 @@ ___________________________________________
      [Writing Rules](https://guides.github.com/features/mastering-markdown/)
 ------------------------------------------
 
-### **USING GITHUB**
+### **USING GITHUB (via Terminal)**
 ------
 
 **_Coordination between_**
