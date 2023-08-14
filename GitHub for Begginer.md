@@ -1,0 +1,44 @@
+- ## Basic Tutorial for GitHub Basics
+- ## How to use Github?
+  - **_REPOSITORIES_**
+    - What are these?
+    - How to create Repository?
+    - How to rename it?
+    - What are various licenses (explained in brief)?
+    - **_How to add files?_**
+      - Importing from VSC
+      - Importing (drag & drop) from System 'File Explorer'
+    - **_What are README.md files_**
+      - Why to add README.md files?
+      - How to save the changes made to main file?
+      - **_How to write README.md files for my Repository?_**
+        - Add links
+        - Insert images
+        - Insert emoji
+        - Add Heading
+        - Add Horizontal Rule
+        - Style text to Bold, Italics or underline
+        - Add Tables
+        - Add comments and many more..
+    - How to publish my Repository?
+    - What is version, package, release and publish?
+    - How to Delete the Repository?
+    - For WebDevelopment students, how to publish my webpage added to Repository online?
+  - What is main?
+  - What are branches and how they work or how to use it?
+  - What is tag?
+  - What is Fork?
+  - **_What are Issues?_**
+    - Why, When and How to create it?
+    - What are filters in it & how to use it?
+    - What are Labels?
+    - Whhat are Milestones?
+  - **What is Pull Request?**
+  - What are Projects?
+  - What is Wiki?
+  - What are Collaborations in Setting tab?
+- ## FAQ Section (interlinking)
+  - What is Git?
+  - What is GitHub, is it different from Git?
+  - What is GitHub Desktop and how to use it?
+  - How to link VSC with GitHub desktop or GitHub?
