@@ -1,5 +1,6 @@
 # Git-GitHub_Basics
 Learn How To Use Git and GitHub on 64bit Windows-OS
+Free Web Resources : [Web_Resources.md](https://github.com/Sushant2024/Git-GitHub_Basics/blob/329eab794cd34d578c63a95811e545906c02fdb0/Web_Resources.md)
 
 # Sample
 
